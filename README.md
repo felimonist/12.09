@@ -1,10 +1,11 @@
 Домашнее задание к занятию 12.09. «Базы данных в облаке»
 
 Задание 1
-![slave](https://github.com/felimonist/12.09/blob/main/img/1.JPG)
 
-Задание 2
-![slave](https://github.com/felimonist/12.09/blob/main/img/2.JPG)
+1. ![slave](https://github.com/felimonist/12.09/blob/main/img/1.JPG)
+
+
+2 . ![slave](https://github.com/felimonist/12.09/blob/main/img/2.JPG)
 
 
 В качестве результата вашей работы пришлите скриншоты:
